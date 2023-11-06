@@ -22,6 +22,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/svgs/ImageLoginScreen.jsx", "src/svgs/LogoMinimalist.jsx"],
   "exclude": ["node_modules"]
 }
